@@ -1,4 +1,4 @@
-#代码说明：
+# 代码说明：
 实验环境为Windows7，python3.5。需要安装keras,gym,ffmpeg等包。
 运行Qlearning时，输入MyQLearning.py+envname。
 运行DQN时，输入MyDQN.py.py+envname。
